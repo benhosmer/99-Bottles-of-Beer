@@ -6,7 +6,7 @@ $bottles = 99;
     echo "take one down and pass it around...</br>";
     $bottles--;
 } 
-if($bottles > 1) {
+if($bottles < 1) {
 echo "</p>Time to buy more beer!";
 }
 ?>
