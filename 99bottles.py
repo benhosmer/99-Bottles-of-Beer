@@ -1,4 +1,4 @@
-numofbottles = 99
+numofbottles = 199
 while numofbottles >= 1:
   print str(numofbottles) + " bottles of beer on the wall, " 
   print str(numofbottles) + " bottles of beer."
